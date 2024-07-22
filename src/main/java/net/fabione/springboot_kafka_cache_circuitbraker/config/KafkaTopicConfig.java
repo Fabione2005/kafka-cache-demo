@@ -15,5 +15,12 @@ public class KafkaTopicConfig {
                 .build();
     }
 
+    @Bean
+    public NewTopic demoTopicJson(){
+
+        return TopicBuilder.name("demo-fub-json")
+                .build();
+    }
+
 
 }
