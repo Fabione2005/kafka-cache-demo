@@ -1,2 +1,2 @@
 # kafka-cache-demo
-Springboot + kafka + cache + circuit braker + security
+Springboot + kafka demo with a simple producer and consumer
